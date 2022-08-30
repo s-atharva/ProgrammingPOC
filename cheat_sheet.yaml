@@ -1,2 +1,3 @@
 conda:
   create_new_environment:
+    conda create -n py38 python==3.8
